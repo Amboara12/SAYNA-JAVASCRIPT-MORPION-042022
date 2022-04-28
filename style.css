@@ -234,3 +234,17 @@
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
 }
+.mamerina{
+    background-color: #3266ba;
+    border-radius: 10px;
+    border: #3266ba;
+    justify-content: center;
+    transform: translate(570%);
+    width: 100px;
+}
+.mamerina a{
+    justify-self: center;
+    margin-top: 10px;
+    color: aliceblue;
+    text-decoration: none;
+}
