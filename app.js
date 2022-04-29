@@ -137,3 +137,5 @@ choixX.addEventListener("click", miafina)
 let choixO = document.getElementById("choixO")
 choixO.addEventListener("click", miafina1)
  let olona , pc
+
+ 
